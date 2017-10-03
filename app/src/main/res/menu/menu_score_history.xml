@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/challenge_friend"
+        android:title="Challenge a Friend"
+        android:actionProviderClass=
+            "android.widget.ShareActionProvider"/>
+    />
+
+    <item
+        android:id="@+id/rate_us"
+        android:title="Rate Us!"
+        />
+
+    <item
+        android:id="@+id/leaderboard"
+        android:title="Rankings"
+        />
+</menu>
